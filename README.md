@@ -13,6 +13,6 @@ Displays the following information about the chosen country from the JSON file:
 - Country's region
 
 Uses are as follows:
-- >whereto help : displays a help embed
-- >whereto random : chooses a random country from the Countries.json 
-- >whereto region [Region] : chooses a random country from the specified region (see whereto help for list of available region choices) 
+- \>whereto help : displays a help embed
+- \>whereto random : chooses a random country from the Countries.json 
+- \>whereto region [Region] : chooses a random country from the specified region (see whereto help for list of available region choices) 
